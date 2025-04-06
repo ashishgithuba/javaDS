@@ -16,7 +16,7 @@ public class Firstandlast34 {
             System.out.println("Enter elements in sorted order:");
             for (int i = 0; i < n; i++) {
                 nums[i] = sc.nextInt();
-            }
+            }  
     
             // Taking target input
             System.out.print("Enter target value: ");
