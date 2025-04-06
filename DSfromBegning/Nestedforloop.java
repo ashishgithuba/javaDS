@@ -7,10 +7,12 @@ public class Nestedforloop {
             {
                 System.out.print(arr[i][j] + " ");
             }
-
-
-
             
+
+
+
+
+            // Print a new line after each row
             System.out.println();
         }
     }
