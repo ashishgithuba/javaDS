@@ -10,6 +10,10 @@ class Car extends Vehicle {
     void Start() {
         System.out.println("Car starts with a key");
     }
+
+    void run() {
+        System.out.println("Car is running");
+    }
 }
 
 // Main class
