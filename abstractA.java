@@ -18,6 +18,10 @@ class Car extends Vehicle {
     void checkingGithub() {
         System.out.println("Checking git is working");
     }
+    
+     void scheckingGithub() {
+        System.out.println("Checking git is working");
+    }
 }
 
 // Main class
